@@ -30,3 +30,14 @@ A Chronobox é um sistema embarcado com **seis compartimentos independentes**, c
 | Carregamento | Módulo TP4056 com proteção, entrada USB-C |
 | Conversor de tensão | Boost DC-DC MT3608 (saída fixa 5V) |
 | Estrutura | Impressão 3D (PLA/PETG) com estrutura em MDF |
+
+# Frameworks e bibliotecas 
+
+O firmware será desenvolvido utilizando o ambiente Arduino para ESP32, juntamente com bibliotecas específicas para o controle dos componentes utilizados no projeto. 
+Entre as principais bibliotecas previstas estão: 
+*ESP32Servo – controle dos seis servomotores; 
+*ArduinoJson – criação, leitura e manipulação dos dados em formato JSON; 
+*LittleFS – armazenamento dos arquivos e dados localmente na memória Flash da ESP32; 
+*biblioteca do display utilizado – controle da interface visual da caixa; 
+*bibliotecas de comunicação Bluetooth BLE – comunicação entre a ESP32 e o aplicativo; 
+*bibliotecas de controle de tempo/RTC – gerenciamento dos horários programados para os medicamentos. 
