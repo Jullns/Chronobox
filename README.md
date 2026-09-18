@@ -1,6 +1,6 @@
 # Chronomedi — Firmware da Caixa Organizadora Inteligente
 
-Firmware embarcado (ESP32) da **Chronobox**, o dispositivo físico do sistema Chronomedi: uma solução IoT de saúde digital voltada à organização e administração assistida de medicamentos, com foco em usuários idosos e ambientes de cuidado de longa permanência.
+Firmware embarcado (ESP32) da **Chronobox**, o dispositivo físico do sistema Chronomedi: uma solução IoT de saúde digital voltada à organização e administração de medicamentos.
 
 <img width="535" height="412" alt="image" src="https://github.com/user-attachments/assets/81ba8a93-acf6-4ddb-bbfa-f8b082b40054" />
 <img width="808" height="442" alt="image" src="https://github.com/user-attachments/assets/045d08b2-95ce-477b-a57f-1081f8cc285f" />
