@@ -46,3 +46,10 @@ Entre as principais bibliotecas previstas estão:
 * bibliotecas de controle de tempo/RTC – gerenciamento dos horários programados para os medicamentos.
 
 # Vídeo da modelagem 3d 
+
+https://github.com/user-attachments/assets/770efe1b-4d61-466d-8507-13b00bd042d9
+
+
+
+
+
