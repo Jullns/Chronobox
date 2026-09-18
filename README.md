@@ -52,10 +52,9 @@ https://github.com/user-attachments/assets/770efe1b-4d61-466d-8507-13b00bd042d9
 
 https://github.com/user-attachments/assets/8d540bab-eccb-4f6c-b54b-49ae453fd7ab
 
-
 https://github.com/user-attachments/assets/4515eb9b-f912-4988-ae05-539c35776622
 
-
+A caixa vai conter: 6 slots para os medicamentos, 6 tampas automáticas, furos de saídas de som, tampa para a caixa, dois botões e duas chapas inferior e superior que serão parafusadas.
 
 
 
