@@ -28,7 +28,7 @@ A Chronobox é um sistema embarcado com **seis compartimentos independentes**, c
 | Display | LCD 2004 (20x4) HD44780 + módulo adaptador I2C (PCF8574) |
 | Expansor de I/O | Módulo PCF8574 (para os 6 reed switches) |
 | Sensores de abertura | Reed switch magnético + ímã (x6) |
-| Botões | 3x push button momentâneo (confirmar, liga/desliga, emergência) |
+| Botões | 2x push button momentâneo (confirmar/emergência, liga/desliga) |
 | Bateria | LiPo 3,7V, formato pouch, 2000-3000mAh, conector JST |
 | Carregamento | Módulo TP4056 com proteção, entrada USB-C |
 | Conversor de tensão | Boost DC-DC MT3608 (saída fixa 5V) |
