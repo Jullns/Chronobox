@@ -45,9 +45,14 @@ Entre as principais bibliotecas previstas estão:
 * bibliotecas de comunicação Bluetooth BLE – comunicação entre a ESP32 e o aplicativo; 
 * bibliotecas de controle de tempo/RTC – gerenciamento dos horários programados para os medicamentos.
 
-# Vídeo da modelagem 3d 
+# Vídeos da modelagem 3d 
 
 https://github.com/user-attachments/assets/770efe1b-4d61-466d-8507-13b00bd042d9
+
+https://github.com/user-attachments/assets/8d540bab-eccb-4f6c-b54b-49ae453fd7ab
+
+
+https://github.com/user-attachments/assets/4515eb9b-f912-4988-ae05-539c35776622
 
 
 
