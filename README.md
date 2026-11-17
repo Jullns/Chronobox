@@ -24,16 +24,17 @@ A Chronobox é um sistema embarcado com **seis compartimentos independentes**, c
 |---|---|
 | Microcontrolador | ESP32 DevKitC-1, 30 pinos, módulo WROOM-32 (Wi-Fi + BT + BLE 4) |
 | Servomotores (x6) | MG90S (engrenagem metálica) |
-| LEDs indicadores (x6) | LED 5mm verde + resistor 220-330Ω |
-| Buzzer | Piezo passivo, 3,3-5V |
+| LEDs indicadores (x6) | LED 5mm vermelho + resistor 220Ω |
+| Buzzer | Piezo passivo, 5V |
 | Display | LCD 2004 (20x4) HD44780 + módulo adaptador I2C (PCF8574) |
-| Expansor de I/O | Módulo PCF8574 (para os 6 reed switches) |
-| Sensores de abertura | Reed switch magnético + ímã (x6) |
+| Módulo Shield Expansor | 30 pinos |
 | Botões | 2x push button momentâneo (confirmar/emergência, liga/desliga) |
 | Bateria | LiPo 3,7V, formato pouch, 2000-3000mAh, conector JST |
-| Carregamento | Módulo TP4056 com proteção, entrada USB-C |
-| Conversor de tensão | Boost DC-DC MT3608 (saída fixa 5V) |
-| Estrutura | Impressão 3D (PLA/PETG) com estrutura em MDF |
+| Carregamento | 2x Bateria Recarregável 18650 3000mah 3,7v |
+| Módulo Real Time Clock| Ds3231 |
+| Estrutura | Impressão 3D PLA |
+| Placa De Proteção Bms |  20a |
+
 
 # Frameworks e bibliotecas 
 
@@ -43,7 +44,6 @@ Entre as principais bibliotecas previstas estão:
 * ArduinoJson – criação, leitura e manipulação dos dados em formato JSON; 
 * LittleFS – armazenamento dos arquivos e dados localmente na memória Flash da ESP32; 
 * biblioteca do display utilizado – controle da interface visual da caixa; 
-* bibliotecas de comunicação Bluetooth BLE – comunicação entre a ESP32 e o aplicativo; 
 * bibliotecas de controle de tempo/RTC – gerenciamento dos horários programados para os medicamentos.
 
 # Vídeos da modelagem 3d 
